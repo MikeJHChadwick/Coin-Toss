@@ -7,6 +7,4 @@ all he/she needs to know. The comments should usually include at least:
 PROJECT TITLE: CoinToss
 PURPOSE OF PROJECT: use simple class heirarchy and store multiple objects in an array
 VERSION or DATE: 2/20/2020
-HOW TO START THIS PROJECT:
 AUTHORS: Michael Chadwick
-USER INSTRUCTIONS:
