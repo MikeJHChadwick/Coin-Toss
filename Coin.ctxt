@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Coin
+comment1.params=
+comment1.target=Coin()
+comment1.text=\r\n\ Constructs\ a\ new\ coin\ object\ and\ calls\ the\ flipCoin\ method.\r\n
+comment2.params=
+comment2.target=void\ flipCoin()
+comment2.text=\r\n\ Determines\ the\ coins\ facing\ ie\ Heads\ or\ Tails.\r\n
+comment3.params=
+comment3.target=boolean\ getFace()
+comment3.text=\r\n\ This\ method\ returns\ the\ coins\ face\ value.\r\n\ @return\ face\ -\ the\ coins\ face;\ either\ Heads\ or\ Tails.\r\n
+comment4.params=face
+comment4.target=java.lang.String\ toString(boolean)
+comment4.text=\r\n\ This\ meathod\ checks\ the\ boolean\ value\ of\ face\ and\ returns\ the\ string\ value\ "Heads"\ if\ it's\ true,\ and\ "Tails"\ if\ it's\ false.\r\n@param\ boolean\ -\ the\ face\ of\ the\ coin\r\n@return\ Heads/Tails\ -\ if\ true\ returns\ the\ string\ "Heads"\ else(ie\ false)\ returns\ the\ string\ "Tails".\r\n
+numComments=5

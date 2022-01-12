@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=subCoin
+comment0.text=\r\n\ This\ class\ extends\ the\ Coin\ class\ by\ adding\ it's\ denomination.\ It\ determines\ this\ by\ checking\ the\ monetary\ value\ passed\ to\ it\r\n\ from\ main\ against\ a\ switch\ statement.\r\n\ @author\ Michael\ Chadwick\r\n\ @version\ 2/20/20\r\n
+comment1.params=coinValue
+comment1.target=subCoin(int)
+comment1.text=\r\n\ Constructs\ a\ nec\ coin\ object\ from\ the\ Coin\ superclass\ and\ the\ value\ passed\ to\ it.\r\n\ It\ then\ calls\ the\ getType\ method\ to\ determine\ it's\ type\ by\ passing\ it\ the\ coin's\ value.\r\n\ @param\ coinValue\ -\ the\ coin's\ monetary\ value.\r\n
+comment2.params=coinValue
+comment2.target=java.lang.String\ getType(int)
+comment2.text=\r\n\ This\ method\ uses\ a\ switch\ statement\ to\ determine\ the\ coin's\ denomination\ by\ comparing\ it's\ value\ vs\ the\ cases.\r\n\ @param\ coinValue\ -\ the\ coin's\ monetary\ value.\r\n\ @return\ coinType\ -\ the\ coin's\ denomination.\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ This\ method\ returns\ the\ coin's\ value.\r\n\ @return\ coinValue\ -\ returns\ the\ coin's\ value.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ method\ returns\ the\ coins\ type\ as\ a\ string.\r\n\ @return\ coinType\ -\ returns\ the\ coin's\ denomination\ as\ a\ string.\r\n
+numComments=5
